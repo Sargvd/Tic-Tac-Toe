@@ -1,0 +1,22 @@
+# Project exclude paths
+/.gradle/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
+/Tic-Tac-Toe/task/out/test/classes/
+/Topics/If expression/Boxes/out/
+/Topics/If expression/Boxes/out/production/classes/
+/Topics/If expression/Number dividers/out/
+/Topics/If expression/Number dividers/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/If expression/Theory/out/
+/Topics/If expression/Theory/out/production/classes/
+/Topics/While loops/Balance checker/out/
+/Topics/While loops/Balance checker/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The largest element/out/
+/Topics/While loops/The largest element/out/production/classes/
+/Topics/While loops/Theory/out/
+/Topics/While loops/Theory/out/production/classes/
